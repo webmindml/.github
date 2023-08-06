@@ -12,7 +12,7 @@ webgpu integration for client side language models<br />
 <a href="https://codelabs.developers.google.com/your-first-webgpu-app#0">google codelabs WebGPU introduction</a><br />
 <a href="https://www.google.com/chrome/canary/">Chrome Canary</a> for Linux use <a href="https://www.google.com/intl/en_ca/chrome/dev/">Chrome Dev</a><br />
 <a href="https://developer.chrome.com/articles/gpu-compute/">chrome developer GPU-compute</a><br />
-<code>chrome://flags/#enable-unsafe-webgpu</code>
+<code>chrome://flags/#enable-unsafe-webgpu</code><br />
 <a href="https://www.chromium.org/getting-involved/dev-channel/">Chromium Dev builds channel<a/><br />
 <a href="https://gpuweb.github.io/types/">WebGPU API reference</a><br />
 <a href="https://github.com/minaiml">minaiml</a> language models</a><br />
