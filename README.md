@@ -13,3 +13,5 @@ webgpu integration for client side language models<br />
 <a href="https://www.chromium.org/getting-involved/dev-channel/">Chromium Dev builds channel<a/><br />
 <a href="https://gpuweb.github.io/types/">WebGPU API reference</a><br />
 <a href="https://github.com/minaiml">minaiml</a> language models</a><br />
+<a href="https://www.npmjs.com/package/@webgpu/types">npm i @webgpu/types</a><br />
+<a href="https://github.com/mrdoob/three.js/">three.js><br />
