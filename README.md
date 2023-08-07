@@ -23,5 +23,5 @@ webgpu integration for client side language models<br />
 
 <a href="https://webgpu.github.io/webgpu-samples/workload-simulator.html?renderingWork&webgpuCanvasOptions&adapterInfo">webGPU workload simulator</a><br />
 <a href="https://webgpu.github.io/webgpu-samples">WebGPU samples library</a><br />
-<a href="https://github.com/mrdoob/three.js/">three.js</a><br />
+<a href="https://github.com/webmindml/.ddd">ddd components library</a><br />
 
