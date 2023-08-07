@@ -22,4 +22,6 @@ webgpu integration for client side language models<br />
 <a href="https://www.npmjs.com/package/@webgpu/types"><code>npm i @webgpu/types</code></a><br />
 
 <a href="https://webgpu.github.io/webgpu-samples/workload-simulator.html?renderingWork&webgpuCanvasOptions&adapterInfo">webGPU workload simulator</a><br />
+<a href="https://webgpu.github.io/webgpu-samples">WebGPU samples library</a><br />
 <a href="https://github.com/mrdoob/three.js/">three.js</a><br />
+
