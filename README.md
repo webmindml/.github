@@ -26,5 +26,6 @@ webgpu integration for client side language models<br />
 <a href="https://github.com/webmindml/ddd">ddd components library</a> alpha prototype abstraction layer proposal<br />
 
 getting started with <a href="https://github.com/mlc-ai/web-llm/tree/main#get-started">web-llm</a> <br />
-<a href="https://code.google.com/archive/p/webmind/downloads">webmind</a>
+<a href="https://code.google.com/archive/p/webmind/downloads">webmind</a><br />
+<a href="https://huggingface.co/datasets/osunlp/Mind2Web">Mind2Web</a>
 
