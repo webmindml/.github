@@ -25,5 +25,6 @@ webgpu integration for client side language models<br />
 <a href="https://webgpu.github.io/webgpu-samples">WebGPU samples library</a><br />
 <a href="https://github.com/webmindml/ddd">ddd components library</a> alpha prototype abstraction layer proposal<br />
 
-getting started with <a href="https://github.com/mlc-ai/web-llm/tree/main#get-started">web-llm</a> 
+getting started with <a href="https://github.com/mlc-ai/web-llm/tree/main#get-started">web-llm</a> <br />
+<a href="https://code.google.com/archive/p/webmind/downloads">webmind</a>
 
